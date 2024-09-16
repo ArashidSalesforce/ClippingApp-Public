@@ -38,8 +38,3 @@ The app is built to run either manually or on a schedule using a task scheduler.
 - **Google Auth & Pickle**: OAuth 2.0 authentication and caching tokens for API calls.
 - **Task Scheduler**: Automates the execution of the app, ensuring continuous operation at predefined intervals.
 
-## Installation and Setup
-
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/username/clipping-app.git
