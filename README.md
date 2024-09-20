@@ -6,6 +6,8 @@ This project automates the process of downloading trending YouTube videos, analy
 
 The app is built to run either manually or on a schedule using a task scheduler. It leverages multiple cloud and machine learning services, ensuring seamless integration and automation across video platforms.
 
+**Note**: This code is not publicly available at the moment, but it may be made public in the future.
+
 ## Key Features
 
 - **Download Trending Videos**: Automatically fetches the most popular YouTube videos in a given region.
